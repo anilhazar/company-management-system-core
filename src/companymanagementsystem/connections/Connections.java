@@ -5,7 +5,6 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.sql.Statement;
-//TODO : Connections sýnýfý tek baþýna veritabaný baðlanacak. Bu sýnýf üzerinden 3 ayrý class ve classlarý spesifik veritabanýna baðla 
 
  abstract class Connections {
 
